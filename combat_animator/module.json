@@ -9,5 +9,6 @@
   "url": "https://github.com/EunoTheBard/combat_animator",
   "scripts": [
     "scripts/roller.js"
-  ]
+  ],
+  "manifest": "https://github.com/EunoTheBard/combat_animator/main/combat_animator/module.json"
 }
