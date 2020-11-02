@@ -1,0 +1,8 @@
+{
+  "name": "combat-animator",
+  "title": "Combat Animator - Add flashy animations to combat",
+  "description": "A module to make VTT more interesting to watch",
+  "author": "Euno",
+  "version": "0.0.1",
+  "minimumCoreVersion": "0.7.5"
+}
