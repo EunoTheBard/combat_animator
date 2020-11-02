@@ -4,5 +4,10 @@
   "description": "A module to make VTT more interesting to watch",
   "author": "Euno",
   "version": "0.0.1",
-  "minimumCoreVersion": "0.7.5"
+  "minimumCoreVersion": "0.7.5",
+  "compatibleCoreVersion": "0.7.5",
+  "url": "https://github.com/EunoTheBard/combat_animator",
+  "scripts": [
+    "scripts/roller.js"
+  ]
 }
