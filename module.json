@@ -10,5 +10,6 @@
   "scripts": [
     "scripts/roller.js"
   ],
-  "manifest": "https://github.com/EunoTheBard/combat_animator/main/combat_animator/module.json"
+  "manifest": "https://raw.githubusercontent.com/EunoTheBard/combat_animator/main/module.json",
+  "download": "https://github.com/EunoTheBard/combat_animator/archive/0.0.1.zip"
 }
